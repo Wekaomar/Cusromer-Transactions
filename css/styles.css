@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(115, 216, 216);
+    color: #eb4f4f;
+   
+  }
+  
+ 
+  .table {
+    margin-top: 25px;
+    border-radius: 10px;
+  }
+  
+  
+  
+
+  
+  .modal-dialog {
+    max-width: 400px;
+    margin: 40px auto;
+    animation: zoomIn 0.5s ease-in-out;
+  }
+  
+  .modal-content {
+    padding: 20px;
+    border: 1px solid #ab0b0b;
+    border-radius: 10px;
+  }
+  
+ 
+  
+  .modal-title {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+
+  
+  .modal-body {
+    padding: 20px;
+  }
+  
+ 
+  
+  
